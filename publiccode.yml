@@ -6,7 +6,7 @@ url: "https://github.com/gith002/euriale.git"        # URL of this repository
 landingURL: "https://designers.italia.it"
 
 isBasedOn: "https://github.com/gith002/euriale.git"   # The original repository, "Otello"
-softwareVersion: "3.0"                                        # Last stable version
+softwareVersion: "3.1"                                        # Last stable version
 releaseDate: 2018-06-30                     # Date of last stable software release
 logo: img/logo.png
 monochromeLogo: img/logo-mono.svg
