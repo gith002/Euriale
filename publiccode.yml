@@ -26,9 +26,9 @@ tags:
 
 freeTags:
   eng:
-    - english-free-tag
+    - english-free-tag-euriale
   ita:
-    - tag-libero-italiano
+    - tag-libero-italiano-euriale
 
 usedBy:
   - Comune di Meda
