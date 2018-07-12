@@ -24,12 +24,6 @@ tags:
   - calendar
   - chat
 
-freeTags:
-  eng:
-    - english-free-tag-euriale
-  ita:
-    - tag-libero-italiano-euriale
-
 usedBy:
   - Comune di Meda
   - Comune di Bovisio Masciago
@@ -84,6 +78,8 @@ description:
        - https://www.youtube.com/watch?v=RaHmGbBOP84
     awards:
        - 1st Price Software of the year
+    freeTags:
+      - free-Euriale-tag
 
 legal:
   license: AGPL-3.0-or-later        # SPDX expression of license
@@ -123,7 +119,7 @@ localisation:
     - fra
     - deu
 
-dependencies:             # List of dependencies. The only mandatory list is the proprietary one
+dependsOn:             # List of dependencies. The only mandatory list is the proprietary one
   open:                 # List of open dependencies. Optional
     - name: MySQL
       versionMin: "1.1"
